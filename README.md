@@ -1,2 +1,2 @@
 ### 1. Contributors List:
-- Taehun Kim
+- Tae-Hun Kim
