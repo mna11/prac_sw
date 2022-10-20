@@ -1,2 +1,3 @@
 ### 1. Contributors List:
-- Tae-Hun Kim
+    - Tae-Hun Kim 
+    - Open source software basic class
