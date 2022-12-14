@@ -61,8 +61,8 @@
 - - - 
 ### < RANK >
 #### 시작화면
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/2N5WcQX/image.png" width = "300" alt="image" border="0"></a>
-mySQL과 통신하여 현재 랭킹을 보여준다. 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/2N5WcQX/image.png" width = "300" alt="image" border="0"></a>  
+mySQL를 이용해 데이터베이스와 통신하여 현재 랭킹을 보여준다. 
 - - -
 - #### GameOver 발생 시  
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Dt7qdxS/image.png" alt="image" border="0"></a>  
