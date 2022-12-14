@@ -8,7 +8,7 @@
 # **플레이 방법**
 
 ### < 모드를 고르세요! >  
-<a href="https://ibb.co/qsJR4Qj"><img src="https://i.ibb.co/LtNCq7R/start-mach.png" width="500" alt="start-mach" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/V2gFC7b/image.jpg" width = "500" alt="image" border="0"></a>
 
 게임을 실행하면 **Mode Select Frame**이 반겨줄 것입니다.  
 **Mouse Mode**에서는 마우스로 조작하는 게임을 플레이 할 수 있습니다.  
@@ -68,7 +68,7 @@ mySQL과 통신하여 현재 랭킹을 보여준다.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Dt7qdxS/image.png" alt="image" border="0"></a>  
 Input Dialog를 띄워 이름을 입력 받는다.  (예시로 READMD.md로 입력해보았다.)  
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/sPPnZqs/image.png" width = "300" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sPPnZqs/image.png" width = "300" alt="image" border="0"></a>  
 이름을 입력하고 OK 버튼을 누르면 랭킹 창을 띄워준다.   
 (8위에 README.md가 기록된 것을 확인할 수 있음.)
 </br>
